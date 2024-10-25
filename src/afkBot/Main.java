@@ -166,6 +166,7 @@ public class Main extends javax.swing.JFrame {
             }
         }
     }
+    
     MouseMover mover = new MouseMover();
 
     private void stoped() {
